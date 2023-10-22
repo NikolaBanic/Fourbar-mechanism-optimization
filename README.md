@@ -9,7 +9,7 @@
 Fourbar Mechanism Optimization is a project dedicated to enhancing the performance of four-bar linkages by optimizing the lengths of their constituent linkages. This project employs a variety of optimization techniques to achieve specific performance objectives.
 
 ## Optimization Methods
-
+ 
 The project leverages multiple optimization methods to improve the operation of four-bar mechanisms. These methods include, but are not limited to:
 
 - Nelder Mead
