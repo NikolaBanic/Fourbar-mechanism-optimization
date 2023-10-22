@@ -3,7 +3,7 @@
 **Fourbar Mechanism Optimization**
 
 ![Fourbar Mechanism](MSGS_indago_best.png)
-
+![Fourbar Mechanism - animation](MSGS_indago_best.avi)
 ## Overview
 
 Fourbar Mechanism Optimization is a project dedicated to enhancing the performance of four-bar linkages by optimizing the lengths of their constituent linkages. This project employs a variety of optimization techniques to achieve specific performance objectives.
